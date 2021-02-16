@@ -13,7 +13,8 @@
 I added functionality to an existing application by allowing for the user to add expenses and deposits to their budget tracker with or without a connection. When transactions are entered offline, they should populate the total when the user is back online. 
 
 ## First Look: 
-
+![Offline](https://user-images.githubusercontent.com/69092983/108078812-bd822c80-7033-11eb-8852-267828bcae01.png)
+![Online](https://user-images.githubusercontent.com/69092983/108078821-beb35980-7033-11eb-9672-0dad2a5cdb11.png)
 
 ## Technologies Used: 
 * [MongoDB](https://www.mongodb.com/)
@@ -23,6 +24,7 @@ I added functionality to an existing application by allowing for the user to add
 In order to get started on this application, you will first need to ```git clone``` the GitHub repository onto your current working directory. Then, do an ```npm i``` to install all of your node modules. Lastly, create a ```.gitignore``` file for your node modules.  
 
 ## Link to Deployed App: 
+[budget-tracker](https://limitless-sierra-35854.herokuapp.com/)
 
 ## License: 
 MIT License
