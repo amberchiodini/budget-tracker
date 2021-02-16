@@ -12,8 +12,10 @@
 ## Description:
 I added functionality to an existing application by allowing for the user to add expenses and deposits to their budget tracker with or without a connection. When transactions are entered offline, they should populate the total when the user is back online. 
 
-## First Look: 
+## First Look:
+* Offline  
 ![Offline](https://user-images.githubusercontent.com/69092983/108078812-bd822c80-7033-11eb-8852-267828bcae01.png)
+* Online 
 ![Online](https://user-images.githubusercontent.com/69092983/108078821-beb35980-7033-11eb-9672-0dad2a5cdb11.png)
 
 ## Technologies Used: 
