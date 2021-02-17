@@ -26,7 +26,7 @@ I added functionality to an existing application by allowing for the user to add
 In order to get started on this application, you will first need to ```git clone``` the GitHub repository onto your current working directory. Then, do an ```npm i``` to install all of your node modules. Lastly, create a ```.gitignore``` file for your node modules.  
 
 ## Link to Deployed App: 
-[budget-tracker](https://limitless-sierra-35854.herokuapp.com/)
+* [budget-tracker](https://limitless-sierra-35854.herokuapp.com/)
 
 ## License: 
 MIT License
